@@ -11,7 +11,7 @@
   "environment": "server",
   "entrypoints": {
     "main": [
-      "org.FortP.Tag"
+      "org.FortP.tag.Tag"
     ]
   },
   "mixins": [
